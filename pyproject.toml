@@ -2,7 +2,7 @@
 name = "rus_roulette"
 version = "1.1.1"
 description = "A russian roulette game in python"
-authors = ["Your Name <you@example.com>"]
+authors = ["4HACker4Gaming <https://github.com/4HACker4Gaming>"]
 readme = "README.md"
 packages = [{include = "rus_roulette"}]
 
